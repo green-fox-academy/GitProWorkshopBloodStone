@@ -1,7 +1,7 @@
 'use strict'
 
-function cheer(groupName) {
+function cheer(groupName, lolol) {
   console.log(groupName);
-  console.log('lolololololol');
+  console.log(lolol);
   console.log('lololololo');
 }
