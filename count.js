@@ -1,5 +1,8 @@
 'use strict'
-function count(name, age) {
+
+function count(param) {
+  console.log('My age is ',param);
+  console.log("Counting the countless " + param);
   console.log(name, '\'s age is ', age);
 }
 
