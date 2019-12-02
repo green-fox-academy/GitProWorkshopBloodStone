@@ -1,4 +1,4 @@
 'use strict';
-function future() {
-  console.log('Your horoscope sign is very good~');
+function future(status) {
+  console.log(`Your horoscope sign is ${status}~`);
 }
