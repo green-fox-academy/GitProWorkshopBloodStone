@@ -1,4 +1,6 @@
 'use strict'
-function count() {
-  console.log('12.');
+function count(param) {
+  console.log('My age is ',param);
 }
+
+count(22);
