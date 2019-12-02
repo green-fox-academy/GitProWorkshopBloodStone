@@ -1,7 +1,7 @@
 'use strict'
 
-let groupName = "BloodStone";
-
-function cheer() {
+function cheer(groupName) {
   console.log(groupName);
+  console.log('lolololololol');
+  console.log('lololololo');
 }
