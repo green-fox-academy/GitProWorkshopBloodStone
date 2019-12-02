@@ -1,4 +1,4 @@
 'use strict'
-function greet() {
-  console.log('Greetings!');
+function greet(p1, p2) {
+  console.log('Greetings!'+p1+p2);
 }
