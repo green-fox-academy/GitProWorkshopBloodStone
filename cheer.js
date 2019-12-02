@@ -1,4 +1,7 @@
 'use strict'
-function greet() {
-  console.log('BloodStone');
+
+let groupName = "BloodStone";
+
+function cheer() {
+  console.log(groupName);
 }
