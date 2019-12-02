@@ -1,4 +1,4 @@
 'use strict'
-function greet() {
-  console.log('jialu');
+function greet(name) {
+  console.log(name);
 }
